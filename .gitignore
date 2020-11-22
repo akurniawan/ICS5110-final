@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+test.csv
+test.json
+yelp_academic_dataset_business.json
+yelp_academic_dataset_checkin.json
+yelp_academic_dataset_review.json
+yelp_academic_dataset_tip.json
+yelp_academic_dataset_user.json
+Dataset_User_Agreement.pdf
+yelp_dataset.tgz
