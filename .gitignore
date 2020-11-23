@@ -136,3 +136,6 @@ yelp_academic_dataset_tip.json
 yelp_academic_dataset_user.json
 Dataset_User_Agreement.pdf
 yelp_dataset.tgz
+yelp_review_sentiment.tsv
+yelp_review_sentiment2.tsv
+yelp_review_sentiment3.tsv
