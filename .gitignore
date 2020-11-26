@@ -133,3 +133,4 @@ dmypy.json
 *.tgz
 .DS_Store
 *.pdf
+*.pkl
